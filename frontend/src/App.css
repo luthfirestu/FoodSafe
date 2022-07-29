@@ -1,0 +1,55 @@
+body {
+  background: rgba(136, 121, 176, 0.58);
+}
+
+.girl {
+  margin-left: 35%;
+  margin-top: 2%;
+  width: 30%;
+}
+.textwelcome{
+  text-align: center;
+  font-family: 'Arial';
+  font-weight: 700;
+  font-size: 48px;
+  color: rgba(255, 247, 247, 0.7);
+  margin-top: 0%;
+
+}
+Button{
+  background: rgba(251, 197, 197, 0.7);
+  border-radius: 40px;
+  border: 0cm;
+  color: white;
+  position: relative;
+  margin-left: 30px;
+  width: 152px;
+  height: 57px;
+  font-family: 'Arial';
+  font-size: 24px;
+  text-align: center;
+  color: #FFFFFF;
+}
+.signlog{
+  margin-top: 1%;
+  margin-left: 37%;
+  width: 40%;
+}
+.ppp{
+  font-family: Arial;
+  width: 30%;
+  margin-left: 35%;
+  font-size: 24px;
+  text-align: center;
+  color: #FFFFFF;
+}
+
+@media screen and (max-width: 480px) {
+  /* For mobile phones: */
+body{
+  width: 428px;
+  height: 926px;
+  position: relative;
+  background: rgba(136, 121, 176, 0.58);
+}
+}
