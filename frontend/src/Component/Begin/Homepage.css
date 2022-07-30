@@ -1,0 +1,155 @@
+
+@media screen and (max-width:480px){
+    body{
+        background-color:rgba(251, 197, 197, 0.6);
+        height: max-content;
+    }
+    .bg-homepage{
+        background-color: rgba(251, 197, 197, 0.6);
+        height: max-content;
+        margin-top: -5%;
+        z-index: -1;
+    }
+    label{
+        margin-left: 5%;
+        margin-top: 6%;
+        font-size: 15px;
+        position: absolute;
+    }
+    .search-icon{
+        height: 30px;
+        width: auto;
+        position: absolute;
+        margin-left: 7%;
+        margin-top: 7%;
+    }
+    .searchbox{
+        width: 78%;
+        height: 46px;
+        margin-top: 5%;
+        margin-left: 4%;
+        z-index: -1;
+        background: #FFFFFF;
+        border-radius: 15px;
+        border-style: none;
+        padding-left: 13%;
+    }
+    .Location{
+        width: 139px;
+        height: 32px;
+        margin-left: 5%;
+        margin-top: 10%;
+        position: relative;
+        background: rgba(136, 121, 176, 0.58);
+        border-radius: 15px 2px 15px 15px;
+    }
+    .loc-icon{
+        margin-top: 4%;
+        height: 70%;
+        margin-left: 5%;
+
+    }
+    .Banner{
+        margin-top: 5%;
+        margin-left: 5%;
+        width: 90%;
+        z-index: -1;
+    }
+    h2{
+        margin-left: 8%;
+    }
+
+    img{
+        margin-left: 5%;
+        width: 20%;
+    }
+    p{
+        position: relative;
+        display: inline;
+        font-size: 10px;
+        margin-top: 4%;
+        margin-left: 6%;
+        color: black;
+    }
+    .snacks{
+        margin-left: 16%;
+    }
+    .desserts{
+        margin-left: 16%;
+    }
+    .bev{
+        margin-left: 16%;
+    }
+    .Namericano{
+        position: absolute;
+        font-weight: 700;
+        font-size: 16px;
+        margin-left: 28%;
+        margin-top: -5%;
+    }
+    .Cafe{
+        position: absolute;
+        margin-top: 6%;
+        font-size: 10px;
+        margin-left: 2%;
+    }
+    .Lastorder{
+        position: absolute;
+        margin-top: 15%;
+        font-style: italic;
+        font-size: 9px;
+        line-height: 9px;
+        margin-left: 2%;
+    }
+    .rating{
+        position: absolute;
+        margin-top: 10%;
+        margin-left: 2%;
+        width: 12%;
+    }
+    .navbar{
+        margin-top: -45%;
+    }
+    .recom{
+        width: 40%;
+        position: absolute;
+        z-index: -1;
+    }
+    h4{
+        margin-left: 48%;
+    }
+    .eat{
+        margin-left: 49%;
+        margin-top: -5%;
+        position: absolute;
+        font-weight: 400;
+        font-size: 10px;
+        line-height: 12px;
+    }
+    .desc{
+        width: 30%;
+        margin-left: 49%;
+        display: block;
+        font-size: 9px;
+    }
+    .price{
+        margin-left: 49%;
+        position:absolute;
+        font-weight:600;
+        font-size: 13px;
+    }
+    .discount{
+        position: absolute;
+        width: 57px;
+        height: 15px;
+        left: 235px;
+        background: rgba(136, 121, 176, 0.58);
+        border-radius: 11px;
+    }
+    .ratingcom{
+        margin-left: 68%;
+        position: absolute;
+        margin-top: 22px;
+        width: 12%;
+    }
+}
