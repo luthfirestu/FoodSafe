@@ -1,0 +1,10 @@
+@media screen and (max-width: 480px){
+    .pricecalc{
+        width: 90%;
+        margin-left: 5%;
+        margin-top: 5%;
+    }
+    body{
+        background-color:rgba(251, 197, 197, 0.6);
+    }
+}

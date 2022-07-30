@@ -1,6 +1,5 @@
 import React from 'react'
 import "./Homepage.css"
-import Navigation from '../Navigation'
 
 
 function Homepage() {
@@ -52,7 +51,6 @@ function Homepage() {
         <br></br>
         <br></br>
         <br></br>
-        <Navigation/>
     </div>
   )
 }
